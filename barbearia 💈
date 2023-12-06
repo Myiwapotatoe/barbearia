@@ -3,18 +3,27 @@
     <head>
         <meta charset="UTF-8">
         <title>Produtos - Barbearia Alura</title>
+      
+       <link rel="styleshet" href="reset.css">
         <link rel="stylesheet"
 href="style.css">
+
     </head>
     <body>
         <header>
             <h1><img scr="logo.png"></h1>
+  
+     <nav>
+         <ul>
+          <li><a href="index.html">Home<a/></li>
 
-      <ul>
-          <li>Home</li>
-          <li>Produtos</li>
-          <li>Contato</li>
+          <li><a href="produts.html"Produtos<a/></li>
+
+          <li><a href="contato.html"Contato<a/></li>
+
+   </nav>
      </ul>
+ 
    </header>  
   </body>
  </html> 
